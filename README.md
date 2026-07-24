@@ -19,7 +19,7 @@ Passionate about programming, problem-solving, and building practical software. 
 
 ## 🚀 About Me
 
-📍 Jaipur, Rajasthan, India
+📍 Jaipur, Rajasthan | Currently at DA-IICT, Gandhinagar, Gujrat
 
 💻 Passionate about software development and logical problem-solving
 

@@ -1,53 +1,70 @@
 # Hi there, I'm Kushagra Goyal 👋
 
-Incoming B.Tech Computer Science & Engineering student (Class of 2030) with a strong foundation in logic building, mathematics, and automation. I enjoy turning complex logic into interactive Python tools and games.
+🎓 B.Tech in Information and Communication Technology (ICT) @ DA-IICT (Class of 2030)
+
+Passionate about programming, problem-solving, and building practical software. I enjoy transforming ideas into code, exploring new technologies, and continuously improving my development skills.
 
 ---
 
-### 🏆 Academic & Competitive Achievements
+## 🏆 Academic Highlights
 
-🔹 JEE Mains: Achieved 98.303 Percentile (Strong analytical and mathematical problem-solving skills)
+🔹 JEE Main 2026: **98.303 Percentile**
 
-🔹 NDA Written Exam: Cleared 2 times consecutively (NDA 2 2025 & NDA 1 2026)
+🔹 Qualified **NDA Written Examination** twice consecutively
+(NDA II 2025 & NDA I 2026)
 
-🔹 Rigorous Prep: Dedicated 4 years (Class 9-12) to advanced physics, chemistry, and mathematics logic building
-
----
-
-### 🚀 About Me
-
-🔹 Education: Incoming B.Tech CSE Student (Starting July 2026)
-
-🔹 Location: Jaipur, Rajasthan, India
-
-🔹 Fun Fact: I built 15+ standalone Python scripts and command-line tools before ever attending my first college lecture!
+🔹 Built a strong analytical foundation through four years of rigorous preparation in Physics, Chemistry, and Mathematics.
 
 ---
 
-### 💻 Tech Stack & Skills
+## 🚀 About Me
 
-🔹 Languages: Python (Basic to Intermediate logic building)
+📍 Jaipur, Rajasthan, India
 
-🔹 Developer Tools: Git, GitHub, Command Line Interface (CLI)
+💻 Passionate about software development and logical problem-solving
 
-🔹 Core Strengths: Mathematics, Algorithmic Thinking, Problem Solving
+🎯 Interested in building useful applications and continuously learning new technologies
 
----
-
-### 📂 Featured Python Projects
-
-Here are a few of the standalone projects I have built:
-
-1. Python-Math-Blitz — An interactive, fast-paced math game.
-2. Python-Water-Intake-Tracker — A CLI tool to calculate daily hydration goals based on user metrics.
-3. Python-Atm-Simulator — A terminal-based simulation of real-world ATM logic and authentications.
-4. Python-Password-Generator — A script focusing on secure, random password generation using modern practices.
+⚡ Built **15+ Python projects and command-line tools** before beginning college.
 
 ---
 
-### 🌐 Connect with Me
+## 💻 Tech Stack
 
-🔹 LinkedIn: Connect on LinkedIn ([https://linkedin.com/in/kushagra-goyal-69489b220](https://linkedin.com/in/kushagra-goyal-69489b220))
-🔹 Email: dev.kushagragoyal@gmail.com
+**Languages**
+- C
+- Python
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Command Line (CLI)
+
+**Core Skills**
+- Problem Solving
+- Mathematical Thinking
+- Algorithmic Logic
 
 ---
+
+## 📂 Featured Projects
+
+- 🧮 **Python Math Blitz** – Interactive mental math game.
+- 💧 **Water Intake Tracker** – CLI application that calculates personalized daily hydration goals.
+- 🏦 **ATM Simulator** – Terminal-based ATM simulation with authentication and banking operations.
+- 🔐 **Password Generator** – Secure password generator using Python.
+
+---
+
+## 🌱 Current Goal
+
+Build a strong foundation in software engineering through hands-on projects, open-source contributions, and continuous learning at DA-IICT.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/kushagra-goyal-69489b220
+- 💻 GitHub: https://github.com/dev-kushagragoyal
+- 📧 Email: dev.kushagragoyal@gmail.com

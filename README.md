@@ -1,6 +1,6 @@
 # Hi there, I'm Kushagra Goyal 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-kushagragoyal&color=blue)
 
 🎓 B.Tech in Information and Communication Technology (ICT) @ DA-IICT (Class of 2030)
 

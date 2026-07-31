@@ -1,5 +1,7 @@
 # Hi there, I'm Kushagra Goyal 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 🎓 B.Tech in Information and Communication Technology (ICT) @ DA-IICT (Class of 2030)
 
 Passionate about programming, problem-solving, and building practical software. I enjoy transforming ideas into code, exploring new technologies, and continuously improving my development skills.

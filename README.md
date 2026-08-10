@@ -1,10 +1,8 @@
 # Hi there, I'm Kushagra Goyal 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-kushagragoyal&color=blue)
+🎓 **B.Tech in Mathematics & Computing (MnC) @ DA-IICT | Class of 2030**
 
-🎓 B.Tech in Information and Communication Technology (ICT) @ DA-IICT (Class of 2030)
-
-Passionate about programming, problem-solving, and building practical software. I enjoy transforming ideas into code, exploring new technologies, and continuously improving my development skills.
+Passionate about programming, problem-solving, mathematics, and building practical software. I enjoy transforming ideas into code, exploring new technologies, and continuously improving my development skills.
 
 ---
 
@@ -12,20 +10,22 @@ Passionate about programming, problem-solving, and building practical software. 
 
 🔹 JEE Main 2026: **98.303 Percentile**
 
-🔹 Qualified **NDA Written Examination** twice consecutively
-(NDA II 2025 & NDA I 2026)
+🔹 Qualified **NDA Written Examination** twice consecutively  
+*(NDA II 2025 & NDA I 2026)*
 
-🔹 Built a strong analytical foundation through four years of rigorous preparation in Physics, Chemistry, and Mathematics.
+🔹 Built a strong analytical foundation through four years of rigorous preparation in **Physics, Chemistry, and Mathematics**.
 
 ---
 
 ## 🚀 About Me
 
-📍 Jaipur, Rajasthan | Currently at DA-IICT, Gandhinagar, Gujrat
+📍 Jaipur, Rajasthan | Currently at **DA-IICT, Gandhinagar, Gujarat**
 
-💻 Passionate about software development and logical problem-solving
+💻 Passionate about **software development, algorithms, and logical problem-solving**
 
-🎯 Interested in building useful applications and continuously learning new technologies
+🧮 Interested in **mathematics, computational thinking, and building useful applications**
+
+🎯 Focused on developing strong foundations in **programming, data structures, algorithms, and computer science**
 
 ⚡ Built **15+ Python projects and command-line tools** before beginning college.
 
@@ -33,20 +33,21 @@ Passionate about programming, problem-solving, and building practical software. 
 
 ## 💻 Tech Stack
 
-**Languages**
+### Languages
 - C
 - Python
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - VS Code
 - Command Line (CLI)
 
-**Core Skills**
+### Core Skills
 - Problem Solving
 - Mathematical Thinking
 - Algorithmic Logic
+- Computational Thinking
 
 ---
 
@@ -61,12 +62,12 @@ Passionate about programming, problem-solving, and building practical software. 
 
 ## 🌱 Current Goal
 
-Build a strong foundation in software engineering through hands-on projects, open-source contributions, and continuous learning at DA-IICT.
+Build a strong foundation in **mathematics, computer science, and software engineering** through hands-on projects, problem-solving, open-source contributions, and continuous learning at DA-IICT.
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/kushagra-goyal-69489b220
-- 💻 GitHub: https://github.com/dev-kushagragoyal
-- 📧 Email: dev.kushagragoyal@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/kushagra-goyal-69489b220](https://linkedin.com/in/kushagra-goyal-69489b220)
+- 💻 GitHub: [github.com/dev-kushagragoyal](https://github.com/dev-kushagragoyal)
+- 📧 Email: [dev.kushagragoyal@gmail.com](mailto:dev.kushagragoyal@gmail.com)

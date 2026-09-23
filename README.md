@@ -69,5 +69,4 @@ Build a strong foundation in **mathematics, computer science, and software engin
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/kushagra-goyal-69489b220](https://linkedin.com/in/kushagra-goyal-69489b220)
-- 💻 GitHub: [github.com/dev-kushagragoyal](https://github.com/dev-kushagragoyal)
 - 📧 Email: [dev.kushagragoyal@gmail.com](mailto:dev.kushagragoyal@gmail.com)
